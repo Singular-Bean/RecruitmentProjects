@@ -52,7 +52,7 @@ season similar to Rodri's ballon d'or winning season specifically.
 
 ## Example Usage
 
-Below is the top 6 closest players to Rodri's 23/24 season, with a maximum age of 24 and a maximum market value of £50m:
+Below is the top 6 closest players to Rodri's 23/24 season, with a maximum age of 24 and a maximum market value of €50m:
 
 ```
                              PC1       PC2     PC3       PC4       PC5
