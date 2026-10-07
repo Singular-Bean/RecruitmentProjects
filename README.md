@@ -76,7 +76,7 @@ clubs.
 Another thing that I noticed is that 5 out of the 6 players are from Ligue 1. A possible explanation for this is that
 Ligue 1, like the Premier League, is a very physical, fast-paced, transitional league, and so it's more likely that
 players are statistically similar to target players selected from the Premier League. Another thing this could indicate
-is that Ligue 1 is a good place to look for undervalues youngsters who could quickly adapt to Premier League football.
+is that Ligue 1 is a good place to look for undervalued youngsters who could quickly adapt to Premier League football.
 
 The next example uses Van Dijk as the target player. Unlike Rodri, who has had some pretty injury-filled seasons, Van
 Dijk has been very consistent over the last 4 seasons. This means that we can run the model without picking a specific
